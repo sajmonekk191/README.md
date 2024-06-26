@@ -15,7 +15,7 @@
 ## 🚀 Technologies & Tools
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Windows](https://img.shields.io/badge/-Linux-333333?style=flat&logo=windows)
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
