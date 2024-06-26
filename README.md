@@ -23,9 +23,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-## 📈 My Contributions
+## 📚 Recent Projects
 
-![Contribution graph](https://activity-graph.herokuapp.com/graph?username=sajmonekk191&theme=github-dark&hide_border=true)  --- Doesn't WORK !!
+- **[Magic Orbwalker](https://github.com/sajmonekk191/MagicOrbwalker)**: A tool for automating in-game character movements and actions.
+- **[Sos-Game](https://github.com/sajmonekk191/SosGame)**: A strategic game implementation in C#.
+- **[VoidSharp](https://github.com/sajmonekk191/V2)**: An advanced project for enhanced software solutions.
 
 ## 🌐 Connect with Me
 
