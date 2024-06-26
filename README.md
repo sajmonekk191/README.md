@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on making the best software for myself
 - 🌱 I’m currently learning advanced Python and C# programming
-- 💬 Ask me about anything tech-related, especially C# and Linux
+- 💬 Ask me about anything tech-related, especially C#
 - 📫 How to reach me: [sn@voidgear.space](mailto:sn@voidgear.space)
 - ⚡ Fun fact: I am working in Windows but I hate it!
 
@@ -25,9 +25,9 @@
 
 ## 📚 Recent Projects
 
-- **[Magic Orbwalker](https://github.com/sajmonekk191/MagicOrbwalker)**: A tool for automating in-game character movements and actions.
-- **[Sos-Game](https://github.com/sajmonekk191/SosGame)**: A strategic game implementation in C#.
-- **[VoidSharp](https://github.com/sajmonekk191/V2)**: An advanced project for enhanced software solutions.
+- **[Magic Orbwalker](https://github.com/sajmonekk191/MagicOrbwalker)**: External orbwalker for League of Legends.
+- **[Sos-Game](https://github.com/sajmonekk191/SosGame)**: Online game for testing your knowledge in everything with Level Editor.
+- **[VoidSharp](https://github.com/sajmonekk191/V2)**: External scripting platform for League of Legends with orbwalker, auto aim, auto QSS, champion scripts, anti-AFK, and more.
 
 ## 🌐 Connect with Me
 
