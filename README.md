@@ -27,7 +27,7 @@
 
 - **[Magic Orbwalker](https://github.com/sajmonekk191/MagicOrbwalker)**: External orbwalker for League of Legends.
 - **[Sos-Game](https://github.com/sajmonekk191/SosGame)**: Online game for testing your knowledge in everything with Level Editor.
-- **[VoidSharp](https://github.com/sajmonekk191/V2)**: External scripting platform for League of Legends with orbwalker, auto aim, auto QSS, champion scripts, anti-AFK, and more.
+- **[VoidSharp](https://github.com/sajmonekk191/V2)**: External scripting platform for League of Legends with orbwalker, auto aim, auto QSS, champion scripts, and more.
 
 ## 🌐 Connect with Me
 
