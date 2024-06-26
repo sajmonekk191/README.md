@@ -1,12 +1,12 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Šimon Novák! 👋
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on making the best software
-- 🌱 I’m currently learning advanced Ruby programming
-- 💬 Ask me about anything tech-related, especially Ruby and Linux
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: I'm based in Prague and love using vim!
+- 🔭 I’m currently working on making the best software for myself
+- 🌱 I’m currently learning advanced Python and C# programming
+- 💬 Ask me about anything tech-related, especially C# and Linux
+- 📫 How to reach me: [sn@voidgear.space](mailto:sn@voidgear.space)
+- ⚡ Fun fact: I am working in Windows but I hate it!
 
 ## 📊 My GitHub Stats
 
@@ -25,10 +25,10 @@
 
 ## 📈 My Contributions
 
-![Contribution graph](https://activity-graph.herokuapp.com/graph?username=sajmonekk191&theme=github-dark&hide_border=true)
+![Contribution graph](https://activity-graph.herokuapp.com/graph?username=sajmonekk191&theme=github-dark&hide_border=true)  --- Doesn't WORK !!
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:youremail@example.com)
+- [Facebook](https://www.facebook.com/simon.novak.7773/)
+- [Instagram](https://www.instagram.com/sajmonekk11/)
+- [Email](mailto:sn@voidgear.space)
