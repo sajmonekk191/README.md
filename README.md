@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on making the best software for myself
 - 🌱 I’m currently learning advanced Python and C# programming
 - 💬 Ask me about anything tech-related, especially C#
-- 📫 How to reach me: [sn@voidgear.space](mailto:sn@voidgear.space)
+- 📫 How to reach me: [sn@voidgear.space](mailto:sn@snovak.cz)
 - ⚡ Fun fact: I am working in Windows but I hate it!
 
 ## 📊 My GitHub Stats
