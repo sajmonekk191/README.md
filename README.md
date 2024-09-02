@@ -1,4 +1,4 @@
-# Hi there, I'm Šimon Novák! 👋
+# Hi there, I'm Šimon Novák! 👋👋
 
 ## 👨‍💻 About Me
 
